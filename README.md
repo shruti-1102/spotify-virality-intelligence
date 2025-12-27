@@ -28,15 +28,25 @@ The goal is to build an end-to-end analytics pipeline that demonstrates real-wor
 ## 🏗️ Project Structure
 
 spotify-virality-intelligence/
+
 │
+
 ├── data/
+
 │ ├── raw/ # Raw API data
+
 │ └── processed/ # Cleaned & engineered datasets
+
 │
+
 ├── notebooks/ # Exploratory analysis
+
 ├── src/ # Python scripts (ETL, API)
+
 ├── sql/ # SQL queries
+
 ├── tableau/ # Tableau workbook & assets
+
 ├── README.md
 
 ---
